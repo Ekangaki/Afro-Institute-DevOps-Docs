@@ -30,7 +30,7 @@
 	- CloudFomration - fullaccess  <br/>
 	- Administrator - acces <br/>
 		
-3) Enter Role Name (eksroleec2) 
+3) Enter Role Name (eks-fullaccess) 
 4) Attach created role to EKS Management Host (Select EC2 => Click on Security => Modify IAM Role => attach IAM role we have created) 
 
 # Step - 3 : Create EKS Cluster using eksctl # 
